@@ -5,6 +5,7 @@ This project analyzes student academic performance using machine learning models
 
 Features:
 Data Visualization: Generates graphs for analysis.
+
 Machine Learning Models:
   - Decision Tree
   - Random Forest
